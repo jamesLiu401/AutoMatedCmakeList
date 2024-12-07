@@ -1,0 +1,3 @@
+F:/DEV PROJECT/CLionProjects/AutoMatedCmakeList/cmake-build-debug/CMakeFiles/AutoMatedCmakeList.dir
+F:/DEV PROJECT/CLionProjects/AutoMatedCmakeList/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/DEV PROJECT/CLionProjects/AutoMatedCmakeList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
